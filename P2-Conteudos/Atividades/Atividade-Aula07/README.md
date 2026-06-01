@@ -9,6 +9,8 @@
 
 ---
 
+**LINK DA ATIVIDADE**
+https://github.com/GustavoReis-xml/IEC-atividade07
 ## 📋 Descrição
 
 Este projeto implementa os exercícios da Atividade 7, focados em testes automatizados avançados utilizando **Jest**, auditoria de segurança com **npm audit**, e automação com **GitHub Actions**.
